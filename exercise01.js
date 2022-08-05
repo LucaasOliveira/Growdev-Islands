@@ -23,7 +23,7 @@ while (amount >= 1) {
   count1++;
   amount = amount - 1;
 }
-console.log("GC$ 50 " + count50);
-console.log("GC$ 10 " + count10);
-console.log("GC$ 5 " + count5);
-console.log("GC$ 1 " + count1);
+console.log("GC$ 50 -> " + count50);
+console.log("GC$ 10 -> " + count10);
+console.log("GC$ 5 -> " + count5);
+console.log("GC$ 1 -> " + count1);
