@@ -1,4 +1,5 @@
-amount = 129;
+let amount = prompt("Digite um número: ");
+console.log(amount);
 
 console.log("O valor do saque vai ser de:  " + amount + " Growcoins");
 
